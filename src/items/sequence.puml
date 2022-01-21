@@ -50,7 +50,9 @@ skinparam database {
       BackgroundColor SYSTEM_BG_COLOR
       BorderColor SEQUENCE_ITEMS_BORDER_COLOR
 }
-
+skinparam queue {
+    FontColor SYSTEM_FONT_COLOR
+}
   ' PlantUML Sequence diagram skinning
     ' Internal
     skinparam boundary<<Internal>> {

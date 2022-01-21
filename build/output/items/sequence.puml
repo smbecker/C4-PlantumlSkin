@@ -1,5 +1,5 @@
 !ifndef COLORS_IMPORTED
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/general/colors.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/general/colors.puml
 !endif
 
 !ifdef SKIN_SEQUENCE_DIAGRAM
@@ -50,7 +50,9 @@ skinparam database {
       BackgroundColor SYSTEM_BG_COLOR
       BorderColor SEQUENCE_ITEMS_BORDER_COLOR
 }
-
+skinparam queue {
+    FontColor SYSTEM_FONT_COLOR
+}
   ' PlantUML Sequence diagram skinning
     ' Internal
     skinparam boundary<<Internal>> {

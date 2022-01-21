@@ -1,13 +1,13 @@
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/general/general.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/general/legend.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/general/notes.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/general/general.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/general/legend.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/general/notes.puml
 
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/items/actors.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/items/components.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/items/containers.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/items/dbs.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/items/expanded.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/items/misc.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/items/queues.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/items/systems.puml
-!includeurl https://raw.githubusercontent.com/skleanthous/C4-PlantumlSkin/master/build/output/items/sequence.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/items/actors.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/items/components.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/items/containers.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/items/dbs.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/items/expanded.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/items/misc.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/items/queues.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/items/systems.puml
+!includeurl https://raw.githubusercontent.com/smbecker/C4-PlantumlSkin/sb-queue-font/build/output/items/sequence.puml
